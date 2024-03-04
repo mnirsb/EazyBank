@@ -1,11 +1,11 @@
 build:
-  version: "1.0"
+  version: "1.2"
 
 cards:
-  message: "Hey, welcome to EazyBank cards related production APIs"
+  message: "Babumoshai!, welcome to EazyBank cards related PROD APIs"
   contactDetails:
-    name: "Manish Mutthu - Product Owner"
-    email: "maniamuth@eazybank.com"
+    name: "Pinky Patel - Product Owner"
+    email: "meripinkhai@eazybank.com"
   onCallSupport:
     - (617) 432-2356
     - (936) 564-8721
