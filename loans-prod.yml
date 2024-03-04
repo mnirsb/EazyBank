@@ -1,11 +1,11 @@
 build:
-  version: "1.1"
+  version: "1.2"
 
 loans:
-  message: "Hey, welcome to EazyBank loans related production APIs "
+  message: "KyaaaBaat!, welcome to EazyBank loans related PROD APIs "
   contactDetails:
-    name: "Lala Singh - Product Owner"
-    email: "lalasingh@eazybank.com"
+    name: "Mithun Singh - Product Owner"
+    email: "mithunhatela@eazybank.com"
   onCallSupport:
     - (723) 656-8709
     - (156) 342-0956
